@@ -1,8 +1,8 @@
 # NYC Taxi Trip Duration Prediction 🚖  
-### Exploratory Data Analysis | Machine Learning Model | Feature Engineering  
+### Data preprocessing  | Machine Learning Model 
 
 ## 📌 Overview  
-This project analyzes NYC Taxi trip data, extracts insights, and builds predictive models to estimate trip duration.  
+This project processes NYC Taxi trip data, performs feature engineering, and builds predictive models to estimate trip duration.
 
 ## 📊 Steps Covered  
 ✅ Data Cleaning & Feature Engineering  
